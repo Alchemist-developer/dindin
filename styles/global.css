@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-@media (max-width: 1000px ) {
+@media (max-width: 1000px) {
     body header main {
         display: flex;
         flex-direction: column;
         font-size: larger;
-    }; 
+    }
+
+    ;
 }
 
 body {
@@ -14,7 +16,7 @@ body {
     justify-content: center;
     margin: 0;
     font-family: 'montserrat';
-    text-decoration: none;  
+    text-decoration: none;
 }
 
 header {
@@ -23,7 +25,7 @@ header {
     align-items: center;
     height: 100px;
     background-color: #2E948A;
-    box-shadow:rgba(0, 0, 0, 0.096) 10px 10px 10px 10px;
+    box-shadow: rgba(0, 0, 0, 0.096) 10px 10px 10px 10px;
     margin-bottom: 100px;
 }
 
@@ -55,22 +57,22 @@ footer {
 .flex-column {
     display: flex;
     flex-direction: column;
-    align-items:flex-start;
-    margin: 5px 5px;    
+    align-items: flex-start;
+    margin: 5px 5px;
     justify-content: center;
 }
 
 .card {
     width: 200px;
     padding: 10px 10px 10px 10px;
-    align-items:flex-start;
+    align-items: flex-start;
 }
 
 .flex-row {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    justify-content: space-around;
+    justify-content: space-b;
     align-items: center;
 }
 
@@ -90,8 +92,8 @@ footer {
 
 .botao-rosaBackground {
     color: white;
-    background-color:#FF4081;
-    border:#FF4081 10px solid;
+    background-color: #FF4081;
+    border: #FF4081 10px solid;
     border-radius: 20px;
     text-decoration: none;
     padding: 0px 10px 0px 10px
@@ -99,8 +101,8 @@ footer {
 
 .botao-azulBackground {
     color: white;
-    background-color:#2E948A;
-    border:#2E948A 10px solid;
+    background-color: #2E948A;
+    border: #2E948A 10px solid;
     border-radius: 20px;
     text-decoration: none;
     padding: 0px 10px 0px 10px
@@ -119,7 +121,7 @@ footer {
 
 a {
     text-decoration: none;
-    color: white;    
+    color: white;
 }
 
 #sessionTres {
@@ -139,4 +141,3 @@ a {
     background-color: #bdbdbd;
     margin: 50px 100px 50px 100px;
 }
-
