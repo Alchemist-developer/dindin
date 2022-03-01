@@ -3,9 +3,13 @@
 @media (max-width: 1000px) {
     body header {
         display: flex;
+        flex-direction: column;
     }
     p {
-        font-weight: 700;
+        font-weight: 600;
+    }
+    header a {
+        font-weight: 600;
     }
 }
 
