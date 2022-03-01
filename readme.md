@@ -13,4 +13,6 @@
 <li>Google Fonts</li>
 <li>Figma</li>
 <br>
-<b> Autor:</b><a href="https://linkedin.com/in/adryelsimon"> Adryel Simon</a>
+
+<b>></b> <a href="https://alchemist-developer.github.io/dindin/">Página do projeto</a></b> 
+<b>| Autor:</b><a href="https://linkedin.com/in/adryelsimon"> Adryel Simon</a><br>
