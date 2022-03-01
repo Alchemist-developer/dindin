@@ -154,8 +154,15 @@ footer {
 }
 
 .nav-menu {
-    padding: 20px;
+    padding: 10px;
+    transition: 1s;
+    border-radius: 20px;
 }
+
+.nav-menu:hover {
+    background-color: #FF4081;
+    height: 10px;
+  }
 
 .btn-link {
     border: 1px solid #F6F6F6;
