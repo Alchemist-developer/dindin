@@ -116,16 +116,31 @@ footer {
     text-decoration: none;
     color: #FF4081;
     padding: 10px 10px;
+    transition: 1s;
 }
+
+.botao-rosa:hover {
+    background-color: #FF4081;
+    color: #ffffff;
+    border: #FF4081 1px solid;
+  }
 
 .botao-rosaBackground {
     color: white;
     background-color: #FF4081;
     border: #FF4081 10px solid;
+    align-content: center;
     border-radius: 20px;
     text-decoration: none;
-    padding: 0px 10px 0px 10px
+    padding: 0px 10px 0px 10px;
+    transition: 0.5s;
 }
+
+.botao-rosaBackground:hover {
+    background-color: #ffffff;
+    color: #FF4081;
+    border: #ffffff 10px solid;
+  }
 
 .botao-azulBackground {
     color: white;
@@ -133,7 +148,8 @@ footer {
     border: #2E948A 10px solid;
     border-radius: 20px;
     text-decoration: none;
-    padding: 0px 10px 0px 10px
+    padding: 0px 10px 0px 10px;
+    
 }
 
 .nav-menu {
