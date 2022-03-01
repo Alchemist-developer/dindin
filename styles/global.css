@@ -7,16 +7,19 @@
         align-items: center;
         justify-content: center;
     }
+
     p {
         font-weight: 600;
     }
+
     header a {
         font-weight: 600;
     }
+
     #cel {
         width: 500px;
     }
-    
+
 }
 
 body {
@@ -52,12 +55,12 @@ footer {
 
 .center {
     margin: auto;
-    padding: 100px 
+    padding: 100px
 }
+
 .blogtitle {
     color: #2E948A;
     font-weight: 800;
-    
 }
 
 .feedback-row {
@@ -78,7 +81,6 @@ footer {
     flex-direction: column;
     align-items: flex-start;
     margin: 10px 10px;
-    
 }
 
 .card {
@@ -123,7 +125,7 @@ footer {
     background-color: #FF4081;
     color: #ffffff;
     border: #FF4081 1px solid;
-  }
+}
 
 .botao-rosaBackground {
     color: white;
@@ -140,7 +142,7 @@ footer {
     background-color: #ffffff;
     color: #FF4081;
     border: #ffffff 10px solid;
-  }
+}
 
 .botao-azulBackground {
     color: white;
@@ -149,7 +151,6 @@ footer {
     border-radius: 20px;
     text-decoration: none;
     padding: 0px 10px 0px 10px;
-    
 }
 
 .nav-menu {
@@ -185,6 +186,3 @@ a {
     background-color: #bdbdbd;
     margin: 50px 100px 50px 100px;
 }
-
-    /* page blog */
-
