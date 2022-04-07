@@ -14,5 +14,5 @@
 <li>Figma</li>
 <br>
 
-<b>></b> <a href="https://alchemist-developer.github.io/dindin/">Página do projeto</a></b> 
+<b>></b> <a href="https://alchemist-developer.github.io/dindin-front-end/">Página do projeto</a></b> 
 <b>| Autor:</b><a href="https://linkedin.com/in/adryelsimon"> Adryel Simon</a><br>
